@@ -1,0 +1,20 @@
+@import '../src/common/colors.scss';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Cormorant SC', serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  background: #0f171e;
+}
+
+.container {
+  margin: 0 40px;
+}
